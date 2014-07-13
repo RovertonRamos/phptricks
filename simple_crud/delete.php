@@ -33,7 +33,7 @@ require "database.php";
              <form action="delete.php" method="POST">
 			 <input type="hidden" name="id" value="<?php echo $id;?>"/>
 		<h3>Are you sure to delete?</h3>
-			 <input type="submit" value="Yes" /><a href="index.php" class="btn ">Back</a>
+			 <input type="submit" value="Yes" /><a index.php" class="btn ">Back</a>
 			 </form>
  
    </div>
